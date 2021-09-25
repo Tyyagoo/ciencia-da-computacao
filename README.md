@@ -135,7 +135,7 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | 21/09 \n 24/09
+[Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | 21/09 <br> 24/09
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | - | x
 [Ciência da Computação 50 (CC50)](https://cc50.estudarfora.org.br/) | 9 semanas | 4 horas/semana | Sistemas Operacionais; Redes; Arquivos; C; JS. | - | x
 [Leitura e Produção de Textos](https://www.youtube.com/playlist?list=PLxI8Can9yAHemh_YJh9GtkIUljZbI7Tvw) | 4 semanas | 2 horas/semana | Língua Portuguesa; Escrita; Gramática; Argumentação. | - | x
