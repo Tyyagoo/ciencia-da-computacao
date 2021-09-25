@@ -133,7 +133,7 @@ O currículo deste Curso se divide em duas categorias: a das Disciplinas de Form
 
 ### Introdução a Computação
 
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) | 9 Semanas | 4 horas/semana | Algoritmos; Lógica de Programação; Python; Testes. | - | 21/09 <br> 24/09
 [Fundamentos Matemáticos para Computação](https://www.youtube.com/watch?v=QE6ruiq632o&list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx) | 9 Semanas | 4 horas/semana | Lógica Formal; PROLOG; Recursão; Matrizes; Booleanos; Grafos. | - | x
@@ -147,8 +147,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão
 
 ### Aprofundamento de Conceitos Introdutórios
 
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
-:-- | :--: | :--: | :--: | :--:
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
+:-- | :--: | :--: | :--: | :--: | :--:
 [Introdução à Ciência da Computação com Python II](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) | 6 Semanas | 4 horas/semana | Matrizes; POO; Recursão; Complexidade de Algoritmos. | Introdução à Ciência da Computação com Python I 
 [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHeeWqe3m9HZFiBhT33Mfxew) | 9 Semanas | 4 horas/semana | Espaços Discretos; Bayes; Distribuições; Variância; Regressão. | Fundamentos Matemáticos para Computação
 [Arquitetura de Computadores I](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Memória; Booleans; Arquitetura; RISC-V. | Circuitos Digitais
@@ -157,8 +157,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Noções de Direitos Autorais, parte II](https://www.youtube.com/watch?v=XPLZSlop64I&list=PLxI8Can9yAHcoBrn53XO581IsIXHqgShZ) | 9 Semanas | 4 horas/semana | Patentes Digitais; Registro de Programas de Computador. | Noções de Direitos Autorais, parte I 
 
 ### Desenvolvimento Técnico
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos 
-:-- | :--: | :--: | :--: | :--: 
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
+:-- | :--: | :--: | :--: | :--: | :--:
 [Programação Orientada a Objetos I](https://pt.coursera.org/learn/lab-poo-parte-1) | 6 Semanas | 4 horas/semana | OOP; Streams; MVC; Design Patterns. | Introdução à Ciência da Computação com Python II 
 [Bancos de Dados](https://www.youtube.com/playlist?list=PL4Sl6eAbMK7RSdXPe8lZ7s-xSitGHH4RZ) | 4 Semanas | 3 horas/semana | MER; Projeto de Banco de Dados; Normalização; SQL. | - 
 [Arquitetura de Computadores II](https://www.youtube.com/playlist?list=PLEUHFTHcrJmswfeq7QEHskgkT6HER3gK6) | 9 Semanas | 4 horas/semana | Cache; Paralelismo; ASM; RISC-V. | Arquitetura de Computadores I 
@@ -166,8 +166,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) | 9 Semanas | 4 horas/semana | XP; User Stories; Taks; Sprint; Diagramas. | - 
 
 ### Desenvolvimento Teórico
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos 
-:-- | :--: | :--: | :--: | :--: 
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
+:-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I 
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLrOyM49ctTx-xtyVeuO7ylclgXHd4ws9a) | 4 Semanas | 3 horas/semana | Grafos; Representações; Listas; Árvores. | Fundamentos Matemáticos para Computação, Programação Orientada a Objetos I 
@@ -175,8 +175,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados 
 
 ### Aprofundamento Técnico
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
-:-- | :--: | :--: | :--: | :--:
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
+:-- | :--: | :--: | :--: | :--: | :--:
 [Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | -
 [Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Teoria dos Grafos 
 [Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | -
@@ -184,8 +184,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) | 2 Semanas | 3 horas/semana | Aplicativos; Android Studio; Views. | Desenvolvimento Ágil com Java Avançado
 
 ### Tópicos Finais
-Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
-:-- | :--: | :--: | :--: | :--: 
+Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
+:-- | :--: | :--: | :--: | :--: | :--:
 [Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJ25sVTLcMhxsE0Hci58mpQ) | 2 Semanas | 3 horas/semana | Programação Funcional; Cálculo Lambda; Haskell; Monads. | Estrutura de Dados
 [Exercícios de Paradigmas de Programação](https://www.youtube.com/playlist?list=PLYItvall0TqJU369ZZ2oNN9mrhLX6Myqk) | - | - | Exercícios do curso. | Estrutura de Dados
 [Compiladores](https://www.youtube.com/playlist?list=PLjcmNukBom6--0we1zrpoUE2GuRD-Me6W) | 2 Semanas | 3 horas/semana | Lexers; Parsers; AST; Generators.  | Teoria dos Grafos
@@ -197,8 +197,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
 
 Após ter concluído a formação geral, você já deve ter uma ampla visão sobre Ciência da Computação, seus fundamentos e aplicações e estará mais que preparado para escolher uma área de especialidade dentro de suas aplicações para se tornar especialista. A partir daqui não vamos mais elencar pré-requisitos, pois entendemos que com a bagagem da formação geral o aluno já consegue ter pleno conhecimento sobre como estudar temas complexos e decidir como e quando fazer cada curso sem necessitar de recomendação.
 
-Especialização     | Duração     | Dedicação                | Áreas de Atuação
-:--                | :--:        | :--:                     | :--     
+Especialização     | Duração     | Dedicação                | Áreas de Atuação | Conclusão
+:--                | :--:        | :--:                     | :--      | :--:
 [Computação Gráfica](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/computer_graphics.md) | 15+ semanas | Média de 4 h/semana | `softwares gráficos`, `aplicações 3D`, `games`, `fotorealismo`, `sistemas gráficos`, `simuladores`, `e mais`
 [Embarcados](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/embedded_systems.md)         | 31 semanas  | Média de 4 h/semana | `internet das coisas`, `controles industriais`, `coisas inteligentes`, `wearables`, `cidades inteligentes`, `automobilismo`, `e mais`
 [Desenvolvimento Web](https://github.com/Universidade-Livre/ciencia-da-computacao/blob/main/specializations/web_development.md) | 37 semanas | Média de  4 h/semana | `aplicações em servidor`, `layout de páginas web`, `sistemas on-line`, `APIs`, `computação em nuvem`, `streaming`, `e mais`
