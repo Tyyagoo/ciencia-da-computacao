@@ -70,7 +70,7 @@ os cursos presentes na grade seguem os seguintes critérios:
 - Ter reconhecimento de qualidade da Comunidade sobre o tema
 - Estar de acordo com o que espera-se do Currículo de Ciências da Computação
 
-Os cursos tem como suplementação sempre que possível livros.
+Os cursos têm como suplementação sempre que possível, livros.
 Quando um livro ou curso de qualidade for recomendável a leitura, mas não encaixar-se com o currículo
 ele deverá ser adicionado nas listas de [cursos extras](#) e [livros extras](#) respectivamente.
 
@@ -169,7 +169,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
 :-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I 
-[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funçõpes; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação
+[Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funções; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação
 [Teoria dos Grafos](https://www.youtube.com/playlist?list=PLrOyM49ctTx-xtyVeuO7ylclgXHd4ws9a) | 4 Semanas | 3 horas/semana | Grafos; Representações; Listas; Árvores. | Fundamentos Matemáticos para Computação, Programação Orientada a Objetos I 
 [Sistemas Operacionais](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Arquitetura de Computadores II 
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados 
@@ -206,7 +206,7 @@ Especialização     | Duração     | Dedicação                | Áreas de At
 
 ## Como demonstrar o meu progresso?
 
-A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é através de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e construir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja através de redes sociais, blogues, tutoriais, streamming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
+A melhor forma de demonstrar sua evolução e maturidade ao longo do currículo é através de projetos práticos que demonstrem um pouco do que você aprendeu em cada disciplina, isso vai desde projetos guiados em muitas disciplinas, até projetos que você decida fazer para se testar e construir coisas com o que aprendeu. Compartilhar sobre os projetos que tem feito ao longo do Curso, seja através de redes sociais, blogues, tutoriais, streaming... vai demonstrar para as pessoas do meio técnico e de outros meios o quanto você aprendeu e evoluiu ao longo dessa jornada.
 
 Não deixe de hospedar todos os seus códigos em seu perfil do GitHub, mesmo que sejam pequenos projetos ou apenas exercícios eles podem demonstrar muito sobre o que você tem estudado, como você resolve problemas e o quanto você melhorou ao longo do tempo.
 
