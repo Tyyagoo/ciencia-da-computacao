@@ -20,6 +20,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 -->
 
 <p align="center">
@@ -60,7 +61,7 @@ e é planejada para alunos com disciplina, cometimento e (o mais importante) bon
 mas que buscam o suporte de uma comunidade de outros estudantes no Brasil todo.
 
 Esse curso contém conteúdos que seriam vistos em um curso de Ciência da Computação organizados de forma estruturada e que contêm disciplinas
-relacionadas computação e também disciplinas de formação geral (acreditamos que uma formação completa abranja mais do que simplesmente CC).
+relacionadas à computação e também disciplinas de formação geral (acreditamos que uma formação completa abrange mais do que simplesmente CC).
 Os cursos em si são selecionados primariamente do conteúdo aberto de diversas Universidades e Institutos de Educação do Brasil, mas no geral
 os cursos presentes na grade seguem os seguintes critérios:
 
@@ -88,7 +89,7 @@ ele deverá ser adicionado nas listas de [cursos extras](#) e [livros extras](#)
 **Custo**. Todos os cursos podem ser completados de forma gratuita. Porém, alguns cursos têm diplomas/certificados/atividades/extras opcionais que são pagos.
 Observe que o [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) oferece ajuda financeira.
 
-Decida quanto tempo de curso e quanto quer gastar em seus estudos nesse curso por sua própria conta,
+Decida quanto tempo de curso e quanto quer gastar em seus estudos neste curso por sua própria conta,
 apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 **Processo**. Os estudantes podem fazer as disciplinas individualmente ou em grupo, seguindo a ordem que estabelecemos ou não.
@@ -108,7 +109,7 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 # Comunidade
 
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
-- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se a vontade para abrir discussões lá.
+- Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/ciencia-da-computacao/issues), sinta-se à vontade para abrir discussões lá.
 
 # Técnicas de estudo, organização e aprendizagem
 
@@ -125,7 +126,7 @@ Curso | Duração | Dedicação | Conteúdos
 
 O currículo deste Curso se divide em duas categorias: a das Disciplinas de Formação Geral e as Disciplinas de Especialização. As disciplinas de formação geral são essenciais na formação de todos os alunos independente de qual área ou especialização desejam seguir e são a base para o conteúdo técnico-teórico para os cursos de especialização. Você pode fazer os cursos na ordem, onde e como preferir e esse é o maior benefício da liberdade, mas por fins didáticos e de organização recomendamos que tente respeitar os pré-requisitos e que conclua todas as disciplinas de formação geral antes de prosseguir nas de especialização.
 
-![organização do currículo por área](https://github.com/Universidade-Livre/imagens/blob/main/curriculos/curriculo_ulivre_1.2.1.png)
+![organização do currículo por área](https://github.com/Universidade-Livre/imagens/blob/main/curriculos/curriculo_ulivre_1.3.0.png)
 
 ---
 
@@ -170,7 +171,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão
 :-- | :--: | :--: | :--: | :--: | :--:
 [Desenvolvimento Ágil com Java Avançado](https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado) | 4 Semanas | 3 horas/semana | JDBC; Servlets; Web; Lambda Calculus. | Princípios de Desenvolvimento Ágil de Software, Programação Orientada a Objetos I 
 [Cálculo I](https://www.youtube.com/playlist?list=PL2D9B691A704C6F7B) | 4 Semanas | 3 horas/semana | Funções; Limite; Derivada; Trigonometria; Mat. Espacial. | Fundamentos Matemáticos para Computação
-[Teoria dos Grafos](https://www.youtube.com/playlist?list=PLrOyM49ctTx-xtyVeuO7ylclgXHd4ws9a) | 4 Semanas | 3 horas/semana | Grafos; Representações; Listas; Árvores. | Fundamentos Matemáticos para Computação, Programação Orientada a Objetos I 
+[Teoria dos Grafos](https://www.youtube.com/playlist?list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) | 4 Semanas | 3 horas/semana | Grafos; Representações; Isomorfismo; Decomposição. | Fundamentos Matemáticos para Computação
 [Sistemas Operacionais](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start) | 4 Semanas | 3 horas/semana | Processos; Threads; Calls; I/O. | Arquitetura de Computadores II 
 [Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR) | 3 Semanas | 4 horas/semana | CRUD; Consultas; Tabelas. | Introdução à Ciência da Computação com Python II, Bancos de Dados 
 
@@ -178,7 +179,7 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão
 Curso | Duração | Dedicação | Conteúdos | Pré-requisitos | Conclusão 
 :-- | :--: | :--: | :--: | :--: | :--:
 [Interfaces Humano-Computador](https://www.youtube.com/playlist?list=PLxI8Can9yAHcoiFzGoyLITBKzFbiw3RIp) | 3 Semanas | 3 horas/semana | Estudos de Usuário; Design; Avaliação de Interfaces. | -
-[Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Teoria dos Grafos 
+[Estrutura de Dados](https://www.youtube.com/playlist?list=PLUukMN0DTKCtdKaIUQoV4VWqGblYGZLfC) | 2 Semanas | 3 horas/semana | Filas; Pilhas; Árvores; Ordenação. | Teoria dos Grafos, Programação Orientada a Objetos I 
 [Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) | 2 Semanas | 3 horas/semana | Protocolos; UDP; TCP; Comunicação. | -
 [Criação de Startups](https://pt.coursera.org/learn/criacao-startups) | 2 Semanas | 3 horas/semana | Canvas; MVP; Modelo de Negócio; Pitch. | -
 [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) | 2 Semanas | 3 horas/semana | Aplicativos; Android Studio; Views. | Desenvolvimento Ágil com Java Avançado
